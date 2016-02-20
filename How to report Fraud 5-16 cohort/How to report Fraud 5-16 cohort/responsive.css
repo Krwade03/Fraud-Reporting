@@ -1,0 +1,127 @@
+ /**************************
+ 
+#first_Paragraph {
+   
+  padding: 4px 5px 5px;
+  margin: 0px;
+  text-align: left;
+  color: white;
+ }
+
+#second_Paragraph {
+   
+  padding: 4px 5px 5px;
+  margin: 0px;
+  text-align: left;
+  color: white;
+ }
+
+#third_Paragraph {
+   
+  padding: 4px 5px 5px;
+  margin: 0px;
+  text-align: left;
+  color: white;
+ }
+
+#fourth_Paragraph {
+   
+  padding: 4px 5px 5px;
+  margin: 0px;
+  text-align: left;
+  color: white;
+ }
+
+#fifth_Paragraph {
+   
+  padding: 4px 5px 5px;
+  margin: 0px;
+  text-align: left;
+  color: white;
+ }
+
+#sixth_Paragraph {
+  
+  padding: 4px 5px 5px;
+  margin: 0px;
+  text-align: left;
+  color: white;
+ }
+
+*******************************/
+
+ body {
+  margin: 0 auto;
+  font-family: verdana, sans-serif;
+  font-size: 0.95em;
+  background-color: #eac657;
+}
+
+ 
+/******************
+#header
+*****************/
+
+#header {
+  float: center;
+  margin: 20px 0;
+  width: 100%;
+}
+
+
+h1 {
+
+float: left;
+margin 0;
+text-indent: -20000px;
+width:  240px;
+height: 320px;
+background: url("./projectimages/IMG_0721.JPG") no-repeat;
+padding-right: 5%;
+padding-top: 5%;
+
+}
+
+ img {
+
+  max-width: 100%;
+ }
+ 
+
+#first_Paragraph {
+  clear
+  
+padding: 50px;
+margin-left: 10px;
+
+} 
+
+#first_Paragraph p {
+background: #d2b14e;
+padding: 50px;
+font-style: italic;
+margin-left: 10px;
+}
+
+
+
+/* @media screen and (min-width: 769px) {
+
+  body {
+    background: white;
+    padding: 50px 0 0;
+     
+    font-size: 100%;
+     
+  }
+
+  nav {
+   
+    float: right;
+    font-size: 1.125em;
+    margin-right: 5%;
+    text-align: right;
+    width: 45%;
+    background-color: green;
+  }
+   }  */
